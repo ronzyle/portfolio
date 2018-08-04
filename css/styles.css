@@ -5,3 +5,8 @@
   width: 180px;
   height: 180px;
   float: right;
+}
+.align {
+  text-align: left;
+  width: 400px
+}
