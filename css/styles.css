@@ -8,5 +8,8 @@
 }
 .align {
   text-align: left;
-  width: 400px
+  width: 400px;
+}
+.body {
+  background-color: gray;
 }
